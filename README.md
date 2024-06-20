@@ -48,7 +48,7 @@ The data, after analysis was visualized to understand better the business questi
 
 Below are the visualizations and what could be gotten from them:
 
-**Age Range of Patients**
+## Age Range of Patients
 
 ![Screenshot 2024-06-20 191541](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/9f498ce5-57b7-4300-a37c-382c691e19bf)
 
@@ -58,7 +58,7 @@ From the above Image, It could be deducted that patients between the age of *45-
 This is because patients that fall between the age group 45-65 years contribute to over 58% of population 
 
 
-**Patients Status**
+## Patients Status
 
 ![Screenshot 2024-06-20 191530](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/2ff36891-4188-489d-b0c1-2f6219edeb6a)
 
@@ -66,9 +66,36 @@ This is because patients that fall between the age group 45-65 years contribute 
 The above data shows that 80% of patients survived breast cancer, while 20% of patients didnt make it
 
 
-**Histology of Patients**
+## Histology of Patients
 
 ![Screenshot 2024-06-20 191558](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/abf9ba1d-ad4b-467b-bdd4-72e396ca3afb)
+
+
+Histology of breast cancer is the microscopic analysis of the chemical and cellular properties of the cells of a the breast cancer. It helps to confirm thze size and type of the breast cancer.
+
+The above data shows 3 histological types of breast cancer. Among these types, *Ductal carcinoma* was the highest among patients, followed by lobular carcinoma. 
+
+Ductal carcioma is also the leading cause of many deaths with over 75% of deaths being from ductal carcinoma
+
+
+## Diagnosis
+
+![Screenshot 2024-06-20 191716](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/7a7c8a05-2c36-40b4-b4b9-045c13d9ec83)
+
+
+The diagnosis here confirms that the rate of breast cancer increase at a steady level from 2017 to 2018 and reached its peak in 2018, before reducing gradually.
+
+
+
+## Tumor Stage of Patients
+
+![Screenshot 2024-06-20 191631](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/f2c8d738-1208-4f94-98bd-aced6cec0022)
+
+
+In breast cancer, stage is based on the size and location of the primary tumor, the spread of cancer to nearby lymph nodes or other parts of the body, tumor grade, and whether certain biomarkers are present. 
+
+Breast cancer stages are represented in Roman numerals from O - IV. According to the data shown above, stage I,II and III are stages present in the data. The data above shows that stage II is the most common among patients followed by stage III and closely then followed by stage I. The death rate of patients are highest in stage II and lowest in stage I. 
+
 
 
 
