@@ -20,6 +20,34 @@ The tools used for this project are thus:
 - Pivot tables
 
 
+
+### Data Structure
+Patient_ID: unique identifier id of a patient
+
+- Age: age at diagnosis (Years)
+
+- Gender: Male/Female
+
+- Tumour_Stage: I, II, III
+
+- Histology: Infiltrating Ductal Carcinoma, Infiltrating Lobular Carcinoma, Mucinous Carcinoma
+
+- ER status: Positive/Negative
+
+- PR status: Positive/Negative
+
+- HER2 status: Positive/Negative
+
+- Surgery_type: Lumpectomy, Simple Mastectomy, Modified Radical Mastectomy, Other
+
+- Date_of_Surgery: Date on which surgery was performed (in DD-MON-YY)
+
+- Date_of_Last_Visit: Date of last visit (in DD-MON-YY) 
+
+- Patient_Status: Alive/Dead 
+
+
+
 ### Data Cleaning and Preparation
 The raw data was imported as a csv file but was transformed to an excel file  using *text to columns* function on excel. Futhermore the following actions were executed on the data to clean and prepare the data for analysis
 
@@ -35,11 +63,11 @@ The raw data was imported as a csv file but was transformed to an excel file  us
 
 **(6)** The *Age* column was grouped into 3 to carefully portray the age groups of patients in the data. A new column was created and the "IF FUNCTION" was used to categorize the age column; 
 
-Ages less than 45 years were grouped. 
+- Ages less than 45 years were grouped. 
 
-Ages from 45-65 years were grouped.
+- Ages from 45-65 years were grouped.
 
-Ages above 65 years were grouped.
+- Ages above 65 years were grouped.
 
 
 
@@ -47,6 +75,13 @@ Ages above 65 years were grouped.
 The data, after analysis was visualized to understand better the business question which was to understand how different aspects of the data can be attributed to patients death or survival. 
 
 Below are the visualizations and what could be gotten from them:
+
+
+![Screenshot 2024-06-05 185533](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/e700051d-dcbf-48fb-b99c-d570ad65d45d)
+
+
+
+### Insights
 
 ## Age Range of Patients
 
@@ -95,6 +130,11 @@ The diagnosis here confirms that the rate of breast cancer increase at a steady 
 In breast cancer, stage is based on the size and location of the primary tumor, the spread of cancer to nearby lymph nodes or other parts of the body, tumor grade, and whether certain biomarkers are present. 
 
 Breast cancer stages are represented in Roman numerals from O - IV. According to the data shown above, stage I,II and III are stages present in the data. The data above shows that stage II is the most common among patients followed by stage III and closely then followed by stage I. The death rate of patients are highest in stage II and lowest in stage I. 
+
+
+
+### Recommendation
+1. Efforts should be made to decrease the percentage of dead patients
 
 
 
