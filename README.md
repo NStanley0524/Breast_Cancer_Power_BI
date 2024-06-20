@@ -40,9 +40,9 @@ Patient_ID: unique identifier id of a patient
 
 - Surgery_type: Lumpectomy, Simple Mastectomy, Modified Radical Mastectomy, Other
 
-- Date_of_Surgery: Date on which surgery was performed (in DD-MON-YY)
+- Date_of_Surgery: Date on which surgery was performed (in DD-MM-YY)
 
-- Date_of_Last_Visit: Date of last visit (in DD-MON-YY) 
+- Date_of_Last_Visit: Date of last visit (in DD-MM-YY) 
 
 - Patient_Status: Alive/Dead 
 
