@@ -77,7 +77,8 @@ The data, after analysis was visualized to understand better the business questi
 Below are the visualizations and what could be gotten from them:
 
 
-![Screenshot 2024-06-05 185533](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/e700051d-dcbf-48fb-b99c-d570ad65d45d)
+![image](https://github.com/user-attachments/assets/2e130aaa-ed1f-4534-9dc4-985363dc9d4b)
+
 
 
 
