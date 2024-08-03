@@ -7,7 +7,14 @@ Breast cancer is an ailment that keeps taking the lives of the population at lar
 
 This project will look into the leading cause of death from breast cancer. It will look into how various variables in this dataset contribute to the health status of patients, whether dead or alive. 
 
+### Aims and Objectices
+The following are aims and objectives of this project:
 
+- To identify significant patterns, trends and factors contributing to mortality rates
+- To analyze the leading causes of breast cancer deaths from 2017 to 2019
+- To provide actionable insights for healthcare professionals, policy makers, researchers to enhance prevention strategies, improve patient outcomes and ultimately reduce breats cancer mortality
+
+ 
 ### Data Sources
 This data is gotten from KAGGLE and the file could be found in the "Breast cancer Clean" file 
 
@@ -89,9 +96,9 @@ Below are the visualizations and what could be gotten from them:
 ![Screenshot 2024-06-20 191541](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/9f498ce5-57b7-4300-a37c-382c691e19bf)
 
 
-From the above Image, It could be deducted that patients between the age of *45-65 years* survive breast cancer the most. Also notably, the aforementioned age group die the most. 
-
-This is because patients that fall between the age group 45-65 years contribute to over 58% of population 
+From the above Image, It could be deducted that patients between the age of *45-65 years* not only have the highest number of breast cancer patients, they also survive breast cancer the most. This indicates that early detection and effective treatment may be more accessible and effective for this age group.
+Patients that are more than 65 years of age from the chart have the highest mortality rate. This could be because of their overall health or the body's inability to aggresively withstand treatments.
+Patients aged 45 years or lower tend to shows lower mortality rates as well as lower cases of breats cancer as compared to other age groups. This shows that younger individuals have better survival rates of breast cancer.
 
 
 ## Patients Status
@@ -99,7 +106,7 @@ This is because patients that fall between the age group 45-65 years contribute 
 ![Screenshot 2024-06-20 191530](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/2ff36891-4188-489d-b0c1-2f6219edeb6a)
 
 
-The above data shows that 80% of patients survived breast cancer, while 20% of patients didnt make it
+This chart shows the distribution of patient status among patients diagnosed with breast cancer. Specifically, it shows that 80% of patients survived breast cancer, while 20% of patients didnt make it
 
 
 ## Histology of Patients
@@ -130,12 +137,18 @@ The diagnosis here confirms that the rate of breast cancer increase at a steady 
 
 In breast cancer, stage is based on the size and location of the primary tumor, the spread of cancer to nearby lymph nodes or other parts of the body, tumor grade, and whether certain biomarkers are present. 
 
-Breast cancer stages are represented in Roman numerals from O - IV. According to the data shown above, stage I,II and III are stages present in the data. The data above shows that stage II is the most common among patients followed by stage III and closely then followed by stage I. The death rate of patients are highest in stage II and lowest in stage I. 
+According to the data above, stage 1 has the lowest number of patients and also the lowest mortality rate. This goes to emphasize the need for ealy detection of the breast cancer. 
+As we go from stage 1 to 111, the mortality rate increases which shows the metastatic effect of cancer and the difficulty to treat cancer at a latter stage. 
+Stage 111 shows the highest percetage of deaths per patients compare to other age groups.
+Stage 11 is a critical stage because as it shows to have the highest number of breast cancer patients, indicating the stage of common diagnosis. While the survival rate is high, the notable number of deaths indicates that this stage is a critical juncture for effective treatment. 
 
 
 
 ### Recommendation
-1. Efforts should be made to decrease the percentage of dead patients
+1. Enhance early detection and screening programs for women in high incidence age groups (45-65 years)
+2. Establish support systems or targetted assistance for older patients to address their unique needs
+3. Invest in research to develop more effective treatment protocols for patients diagnosed at stage 111, where mortality rates are higher
+4. Other analysis is needed to understand the factors influencing survival and mortality rates of patients such as socioeconomic factors and geographical variations.
 
 
 
