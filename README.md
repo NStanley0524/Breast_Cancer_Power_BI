@@ -97,6 +97,14 @@ Below are the visualizations and what could be gotten from them:
 
 ## Insights
 
+### Patients Status
+
+![Screenshot 2024-06-20 191530](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/2ff36891-4188-489d-b0c1-2f6219edeb6a)
+
+
+This chart shows the distribution of patient status among patients diagnosed with breast cancer. Specifically, it shows that 80% of patients survived breast cancer, while 20% of patients didnt make it. This data highlights the success of current treatments and early detection efforts while also emphasizing the need for continued research and healthcare improvements to reduce the mortality rate further.
+
+
 ### Age Range of Patients
 
 ![Screenshot 2024-06-20 191541](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/9f498ce5-57b7-4300-a37c-382c691e19bf)
@@ -105,14 +113,6 @@ Below are the visualizations and what could be gotten from them:
 From the above Image, It could be deducted that patients between the age of *45-65 years* not only have the highest number of breast cancer patients, they also survive breast cancer the most. This indicates that early detection and effective treatment may be more accessible and effective for this age group.
 Patients that are more than 65 years of age from the chart have the highest mortality rate. This could be because of their overall health or the body's inability to aggresively withstand treatments.
 Patients aged 45 years or lower tend to shows lower mortality rates as well as lower cases of breats cancer as compared to other age groups. This shows that younger individuals have better survival rates of breast cancer.
-
-
-### Patients Status
-
-![Screenshot 2024-06-20 191530](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/2ff36891-4188-489d-b0c1-2f6219edeb6a)
-
-
-This chart shows the distribution of patient status among patients diagnosed with breast cancer. Specifically, it shows that 80% of patients survived breast cancer, while 20% of patients didnt make it
 
 
 ### Histology of Patients
