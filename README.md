@@ -95,9 +95,9 @@ Below are the visualizations and what could be gotten from them:
 
 
 
-### Insights
+## Insights
 
-## Age Range of Patients
+### Age Range of Patients
 
 ![Screenshot 2024-06-20 191541](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/9f498ce5-57b7-4300-a37c-382c691e19bf)
 
@@ -107,7 +107,7 @@ Patients that are more than 65 years of age from the chart have the highest mort
 Patients aged 45 years or lower tend to shows lower mortality rates as well as lower cases of breats cancer as compared to other age groups. This shows that younger individuals have better survival rates of breast cancer.
 
 
-## Patients Status
+### Patients Status
 
 ![Screenshot 2024-06-20 191530](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/2ff36891-4188-489d-b0c1-2f6219edeb6a)
 
@@ -115,7 +115,7 @@ Patients aged 45 years or lower tend to shows lower mortality rates as well as l
 This chart shows the distribution of patient status among patients diagnosed with breast cancer. Specifically, it shows that 80% of patients survived breast cancer, while 20% of patients didnt make it
 
 
-## Histology of Patients
+### Histology of Patients
 
 ![Screenshot 2024-06-20 191558](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/abf9ba1d-ad4b-467b-bdd4-72e396ca3afb)
 
@@ -127,16 +127,16 @@ The above data shows 3 histological types of breast cancer. Among these types, *
 Ductal carcioma is also the leading cause of many deaths with over 75% of deaths being from ductal carcinoma
 
 
-## Diagnosis
+### Death Rate
 
-![Screenshot 2024-06-20 191716](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/7a7c8a05-2c36-40b4-b4b9-045c13d9ec83)
-
-
-The diagnosis here confirms that the rate of breast cancer increase at a steady level from 2017 to 2018 and reached its peak in 2018, before reducing gradually.
+![Screenshot 2024-08-03 002728](https://github.com/user-attachments/assets/2e3b4c17-8ec0-4bb4-9e04-ce204ce9ae5c)
 
 
 
-## Tumor Stage of Patients
+This data reveals a pattern of rising and falling mortality rates, with significant peaks in January 2018 and January 2019, where deaths reached 9 and 13, respectively. The lowest points occur in January 2017 and July 2018, with only 1 death each, and another drop to 2 deaths in July 2019. This pattern suggests a cyclical trend, where breast cancer mortality rates tend to increase at the beginning of each year and decrease mid-year, highlighting possible seasonal or external influences on mortality.
+
+
+### Tumor Stage of Patients
 
 ![Screenshot 2024-06-20 191631](https://github.com/NStanley0524/Breast_Cancer_Power_BI/assets/169830658/f2c8d738-1208-4f94-98bd-aced6cec0022)
 
@@ -150,7 +150,7 @@ Stage 11 is a critical stage because as it shows to have the highest number of b
 
 
 
-### Recommendation
+## Recommendation
 The following recommendations can be made from the data:
 1. Enhance early detection and screening programs for women in high incidence age groups (45-65 years)
 2. Establish support systems or targetted assistance for older patients to address their unique needs
