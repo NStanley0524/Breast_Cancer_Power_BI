@@ -1,6 +1,5 @@
 # Breast Cancer
-This dataset consists of a group of breast cancer patients in the United States of America, who had surgery to remove their tumour
-
+This project analyzes breast cancer mortality rates in USA using data visualization techniques in Power BI. The aim is to identify trends and patterns in mortality rates across sex, cancer stages and histology of patients.
 
 ### Project Overview
 Breast cancer is an ailment that keeps taking the lives of the population at large. It is also one of the most common types of cancer in women. It is estimated that **2.3 milllion** new cases of breast cancer are diagnosed every year globally. 
@@ -13,6 +12,13 @@ The following are aims and objectives of this project:
 - To identify significant patterns, trends and factors contributing to mortality rates
 - To analyze the leading causes of breast cancer deaths from 2017 to 2019
 - To provide actionable insights for healthcare professionals, policy makers, researchers to enhance prevention strategies, improve patient outcomes and ultimately reduce breats cancer mortality
+
+
+### Target Audience
+- Doctors, nurses, and medical researchers interested in understanding trends and patterns in breast cancer mortality rates.
+- Policy makers and public health officials who need insights to inform decisions and create strategies for cancer prevention and treatment.
+- Individuals who have an interest in breast cancer statistics and trends, particularly those affected by the disease or involved in awareness campaigns.
+- Scholars conducting research on breast cancer, epidemiology, or public health who can use your findings or methodology in their studies
 
  
 ### Data Sources
@@ -145,6 +151,7 @@ Stage 11 is a critical stage because as it shows to have the highest number of b
 
 
 ### Recommendation
+The following recommendations can be made from the data:
 1. Enhance early detection and screening programs for women in high incidence age groups (45-65 years)
 2. Establish support systems or targetted assistance for older patients to address their unique needs
 3. Invest in research to develop more effective treatment protocols for patients diagnosed at stage 111, where mortality rates are higher
